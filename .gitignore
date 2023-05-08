@@ -1,0 +1,7 @@
+Log/*
+dev.php
+produce.php
+Temp/*
+vendor/*
+.idea/*
+composer.lock
